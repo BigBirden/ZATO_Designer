@@ -8,11 +8,12 @@ Image redactor that can do backgrounds photo from game Z.A.T.O.
 ````bash
 pip install pillow numpy
 ````
-4. Run program with:
+4. Download project (or just ZATO_Editor.py file);
+5. Run program with:
 ````bash
 python ZATO_Editor.py
 ````
-5. Enjoy!!!
+6. Enjoy!!!
 
 # Uninstalling (Windows)
 1. Delete folder with program (or just "ZATO_Designer.py" file)
